@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Habibunayka Miftah Al-Rizqi!  
 
-<!--
-**habibunayka/habibunayka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I'm a 16-year-old aspiring software engineer with skills in *React, Laravel, and JavaScript*.  
+Currently, I am a member at *NevTik, as one of those in the **Web Developer* division. 
+I love building software and aim to work in *Japan* as a software engineer in the future.  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack  
+- *Frontend*: React (Vite), JavaScript
+- *Backend*: Laravel, Next JS (Learning), PHP
+- *Other*: React native (Expo), Virtual Basic, C#, Java, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Focus  
+- Learning *Next JS*
+- Exploring *Scroll-Dive Animation*  
+- Teaching *frameworks & libraries (Especially React & Laravel)* 
+- Developing an *attendance system* using *fingerprint authentication*  
+
+## 🏆 Ongoing Project  
+Currently participating in a *game development competition* using *HTML, CSS, and vanilla JS*.  
+
+## 📫 Reach Me  
+- *Website*: [habibunayka.com](https://habibunayka.com/)  
+- *Instagram*: [@habib.yet](https://twitter.com/habib.yet)  
+- *Email*: habibunayka@gmail.com

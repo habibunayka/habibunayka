@@ -17,7 +17,7 @@ I love building software and aim to work in *Japan* as a software engineer in th
 - Developing an *attendance system* using *fingerprint authentication*  
 
 ## 🏆 Ongoing Project  
-Currently participating in a *game development competition* using *HTML, CSS, and vanilla JS*.  
+Currently learning to join in *LKS Competition.*  
 
 ## 📫 Reach Me  
 - *Website*: [habibunayka.com](https://habibunayka.com/)  

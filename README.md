@@ -7,7 +7,7 @@
 🚀 Currently leveling up my skills to become a top-tier Software Engineer, with a strong focus on backend, system integration, and deployment.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1073759842201763961) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/habib.yet) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@habibb-san)
 
 # 💻 Languages and Tools:

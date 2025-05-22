@@ -18,10 +18,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibunayka&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=jupyter%20notebook"  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habibunayka&theme=holi&hide_border=true&include_all_commits=true&count_private=true"  />
-</div>
-
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=habibunayka&theme=holi&no-frame=true&no-bg=true&margin-w=4"  />

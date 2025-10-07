@@ -14,7 +14,7 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  ![habibunayka's Stats](https://github-readme-stats.vercel.app/api?username=habibunayka&theme=onedark&show_icons=true&hide_border=true&count_private=true)
+  <img src="https://github-profile-trophy.vercel.app/?username=habibunayka&theme=holi&no-frame=true&no-bg=true&margin-w=4](https://github-readme-stats.vercel.app/api?username=habibunayka&theme=onedark&show_icons=true&hide_border=true&count_private=true"  />
 </div>
 
 # 🏆 GitHub Trophies

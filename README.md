@@ -22,7 +22,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=habibunayka&theme=holi&no-frame=true&no-bg=true&margin-w=4"  />
 </div>
 
-# 👀 Profile Views
+# 👀 Why Not??
 <div align="center">
-  <img src="https://profile-counter.glitch.me/habibunayka/count.svg?"  />
+  <img src="https://media.tenor.com/61UNdw6fOYMAAAAM/mahiru.gif"  />
 </div>

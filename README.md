@@ -25,5 +25,5 @@
 # 👀 Why Not??
 <div align="center">
   <img src="https://media.tenor.com/61UNdw6fOYMAAAAM/mahiru.gif"  />
-  <div>✨ "Just a kid coding like crazy, fueled by caffeine and Mahiru Shiina."</div>
+  <div>✨ "Just a normal programmer, fueled by caffeine and Mahiru Shiina."</div>
 </div>

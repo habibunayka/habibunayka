@@ -6,7 +6,7 @@ I build practical software across the web, mobile, desktop, and IoT spaces. My m
 
 - 🔭 Building full-stack applications, APIs, and digital products
 - 💻 Interested in backend engineering, system integration, and responsive UI
-- 🧩 Experienced with web, Android, desktop, and fingerprint attendance systems
+- 🧩 Experienced with Web, Android, and Desktop Application
 - 🚀 Always learning, improving, and turning ideas into working software
 
 ## What I Build
